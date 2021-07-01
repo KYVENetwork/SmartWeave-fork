@@ -104,7 +104,7 @@ dist
 .tern-port
 
 smartweave-*.tgz
-lib/
+# lib/
 
 # WebStorm Local files
 .idea/
